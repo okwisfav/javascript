@@ -102,7 +102,7 @@
 const password = 'p@ass';
 
 if(password.length >= 12){
-    console.log('that password is might strong');
+    console.log('that password is mighty strong');
 }
 else if(password.length >= 8){
     console.log('that password is long enough!');
