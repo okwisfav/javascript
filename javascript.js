@@ -99,13 +99,25 @@
 
 // else if statements
 
-const password = 'p@ass';
+// const password = 'p@ass';
 
-if(password.length >= 12){
-    console.log('that password is mighty strong');
-}
-else if(password.length >= 8){
-    console.log('that password is long enough!');
-} else {
-    console.log('password is not long enough');
-}
+// if(password.length >= 12){
+//     console.log('that password is mighty strong');
+// }
+// else if(password.length >= 8){
+//     console.log('that password is long enough!');
+// } else {
+//     console.log('password is not long enough');
+// }
+
+//locgical operation - OR || and AND &&
+    const password = 'p@ass';
+
+    if(password.length >= 12){
+        console.log('that password is mighty strong');
+    }
+    else if(password.length >= 8){
+        console.log('that password is long enough!');
+    } else {
+        console.log('password is not long enough');
+    }
